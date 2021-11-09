@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 1e807bb47cb529d4981d1f72b40197b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2590308428673349341
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_0
+  - first:
+      213: 506289487253184415
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_1
+  - first:
+      213: 8566628010659589561
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_2
+  - first:
+      213: 8884150094372771273
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_3
+  - first:
+      213: 675246065040879269
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_4
+  - first:
+      213: 824983177334201863
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_5
+  - first:
+      213: 8021992641035097934
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_6
+  - first:
+      213: 2034911785484703998
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_7
+  - first:
+      213: -5037561457429420865
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_8
+  - first:
+      213: -6979565803148556925
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_0
+  - first:
+      213: -3433809480768665759
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_1
+  - first:
+      213: 7845061119484074844
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_2
+  - first:
+      213: 303459342765119015
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_3
+  - first:
+      213: -4579432946192110968
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_4
+  - first:
+      213: 8115091007491520397
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_5
+  - first:
+      213: 6193065968519503021
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_6
+  - first:
+      213: -1290215573670100268
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_7
+  - first:
+      213: 1540920527125887224
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_8
+  - first:
+      213: -4357086157204500903
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_9
+  - first:
+      213: 3504154884317844843
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_9
+  - first:
+      213: 3453402525600313709
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_10
+  - first:
+      213: 4385091137785431621
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_11
+  - first:
+      213: -9133712182082948686
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_12
+  - first:
+      213: 9168314001276149090
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_13
+  - first:
+      213: -4382610802747261661
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_14
+  - first:
+      213: 7239779245819833683
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_15
+  - first:
+      213: 8023296554765590912
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_16
+  - first:
+      213: 7697534997990258219
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_17
+  - first:
+      213: -9004203483730414039
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_18
+  - first:
+      213: 347305878691459505
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_19
+  - first:
+      213: -4156107412739754698
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_20
+  - first:
+      213: 1778611972107024185
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_21
+  - first:
+      213: 7290882004346201114
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_22
+  - first:
+      213: -3628668426936713126
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_23
+  - first:
+      213: 5953779660277590299
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_24
+  - first:
+      213: -3793965604997307685
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_25
+  - first:
+      213: -3107901056248300008
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_26
+  - first:
+      213: -3769797245815041057
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_27
+  - first:
+      213: -5983095141413293325
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_28
+  - first:
+      213: 7578985438817915018
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_29
+  - first:
+      213: 823536382223678481
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_30
+  - first:
+      213: 2150511192781661366
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_31
+  - first:
+      213: -2828249413000184627
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_32
+  - first:
+      213: 6341905217251219222
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_33
+  - first:
+      213: -9001200714620831651
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_34
+  - first:
+      213: 4564352923737630412
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_35
+  - first:
+      213: -4595337501265755915
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_36
+  - first:
+      213: 4352563011143795171
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_37
+  - first:
+      213: -3874362541042113770
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_38
+  - first:
+      213: -8155732905050723552
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_39
+  - first:
+      213: -5902485234260745539
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_40
+  - first:
+      213: -3504488797162284327
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_41
+  - first:
+      213: -5061483841460225314
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_42
+  - first:
+      213: -254733623416967053
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_43
+  - first:
+      213: 5289122759093130119
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_44
+  - first:
+      213: 3525731125193840236
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_45
+  - first:
+      213: -7029955990084750700
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_46
+  - first:
+      213: 1267194528211801488
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_47
+  - first:
+      213: 3429962608271752695
+    second: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 134
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 341
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cdd0a1e9932f90800000000000000
+      internalID: -6979565803148556925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1674a686878a850d0800000000000000
+      internalID: -3433809480768665759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 339
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9314f5814fdc60800000000000000
+      internalID: 7845061119484074844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d9491aaa163400800000000000000
+      internalID: 303459342765119015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 181
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aaf719ff59270c0800000000000000
+      internalID: -4579432946192110968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 180
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87bf7596489e9070800000000000000
+      internalID: 8115091007491520397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac5a24afa032f550800000000000000
+      internalID: 6193065968519503021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 23
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d287b785cb381ee0800000000000000
+      internalID: -1290215573670100268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-tile-set-creating-2d-game-wall-background_22289-418-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 21
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f832762e03726510800000000000000
+      internalID: 1540920527125887224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
